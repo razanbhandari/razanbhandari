@@ -1,4 +1,3 @@
-[![MasterHead](https://github.com/razanbhandari/haha-hehe-huhu-/blob/main/banner%20github.png)
 <h1 align="center">Hi 👋, I'm Rajan Bhandari</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 
@@ -35,6 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razanbhandari&show_icons=true&locale=en&layout=compact" alt="razanbhandari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razanbhandari&show_icons=true&locale=en" alt="razanbhandari" /></p>
-<a href="https://app.daily.dev/mickey4541"><img src="https://api.daily.dev/devcards/v2/Seq1WHa8MvMu9JORH7BR1.png?type=wide&r=hq8" width="652" alt="Rajan Bhandari's Dev Card"/></a>
-
-
